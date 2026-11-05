@@ -148,25 +148,7 @@ Currently interested in exploring:
 
 ---
 
-## 📊 GITHUB ANALYTICS
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-nc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=00E5C0&text_color=E2E8F0&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-nc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9&text_color=E2E8F0&langs_count=8" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-nc&bg_color=0D1117&color=E879F9&line=00E5C0&point=FF4D9D&area=true&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-nc&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
-
-</div>
-
----
 
 ## 🌐 FIND ME ON THE INTERNET
 
