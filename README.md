@@ -1,254 +1,206 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120D24,30:6D28D9,65:E11D74,100:00E5C0&height=240&section=header&text=HEY,%20I'M%20NC!%20%F0%9F%96%A4&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=GIRL%20IN%20TECH%20%7C%20CYBER%20RESEARCHER%20%7C%20BUILDER&descAlignY=60&descSize=15" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,35:F7DCE7,70:D8F3E8,100:B8DDEB&height=230&section=header&text=Hello,%20I'm%20NC!%20%F0%9F%8C%B7&fontSize=48&fontColor=594B70&animation=fadeIn&fontAlignY=38&desc=Curious%20Mind%20%7C%20Creative%20Builder%20%7C%20Tech%20Explorer&descAlignY=60&descSize=16" width="100%"/>
+### `> whoami`
 
-### ୨୧ M.Tech Researcher | Cybersecurity | AI/ML | Digital Forensics
+**M.Tech Researcher • Cybersecurity • AI/ML • Digital Forensics**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=750&lines=Building+things+that+actually+work+%E2%9C%A6;Breaking+down+complex+security+problems+%F0%9F%94%90;Turning+research+into+real-world+prototypes+%F0%9F%A7%AA;Code.+Investigate.+Innovate.+Repeat.+%F0%9F%92%BB;A+little+chaos%2C+a+lot+of+curiosity+%F0%9F%96%A4" alt="Typing SVG"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9875B5&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+projects+%E2%9C%A8;Exploring+Cybersecurity+%26+Digital+Forensics+%F0%9F%94%90;Experimenting+with+AI%2FML+%26+Federated+Learning+%F0%9F%A4%96;Learning+something+new+every+single+day+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GITHUB-code--with--nc-18122B?style=for-the-badge&logo=github&logoColor=E879F9)](https://github.com/code-with-nc)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-18122B?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/narayani-chaudhary/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-18122B?style=for-the-badge&logo=firefox&logoColor=FF4D9D)](https://narayanichaudhary.netlify.app)
+[![Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-Research-18122B?style=for-the-badge&logo=googlescholar&logoColor=00E5C0)](https://scholar.google.com/citations?user=vGpG1MEAAAAJ)
 
 <br/>
 
-<a href="https://github.com/code-with-nc">
-<img src="https://img.shields.io/badge/GitHub-code--with--nc-CBA6F7?style=for-the-badge&logo=github&logoColor=4C4260"/>
-</a>
-<a href="https://github.com/code-with-nc?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-C6E7D8?style=for-the-badge&logo=github&logoColor=4C4260"/>
-</a>
-<a href="https://github.com/code-with-nc?tab=followers">
-<img src="https://img.shields.io/github/followers/code-with-nc?style=for-the-badge&logo=github&label=Followers&color=F2C6D8"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=code-with-nc&label=PROFILE+VISITORS&color=E11D74&style=flat-square" />
 
 </div>
 
 ---
 
-## 🌸 A Little About Me
+## 🖤 ABOUT THE GIRL BEHIND THE CODE
 
-Hey there! I'm **NC (Narayani)** — a technology enthusiast, researcher, and developer who loves turning curious ideas into meaningful projects.
+Hey! I'm **Narayani Chaudhary (NC)** — a tech enthusiast, researcher and developer who enjoys exploring the intersection of security, intelligence and innovation.
 
 Currently pursuing **M.Tech in Information Technology (Cyber Security), Research Track** at **IGDTUW, Delhi**.
 
-My interests lie at the intersection of cybersecurity, artificial intelligence, and digital investigation. I love experimenting with technologies, building prototypes, exploring research problems, and learning by doing.
+I work around cybersecurity, digital forensics, AI-driven investigation and intelligent systems. From experimenting with machine learning models to building forensic prototypes and exploring hardware, I love taking ideas beyond the theory stage.
 
-- 🎓 M.Tech in IT (Cyber Security) — Research Track
-- 🔐 Exploring Cybersecurity & Digital Forensics
-- 🤖 Working with AI/ML, Deep Learning & Explainable AI
-- 🧠 Interested in Federated Learning and intelligent threat detection
-- 🐍 Python developer and technology explorer
-- 🔬 Building research-driven prototypes and practical security tools
-- 🌱 Currently learning, experimenting and creating!
+```python
+class NC:
+    def __init__(self):
+        self.role = "M.Tech Researcher"
+        self.university = "IGDTUW"
+        self.domain = [
+            "Cybersecurity",
+            "Digital Forensics",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ]
+        self.languages = ["Python", "Java", "C++", "Rust"]
+        self.current_vibe = "Research, Build, Experiment, Repeat"
 
-> *A little curiosity, a lot of coffee, and endless lines of code. ☕*
+    def mission(self):
+        return "Turning complex problems into intelligent solutions."
+
+me = NC()
+```
+
+**A few things about me:**
+
+- 🔐 Cybersecurity researcher with an interest in digital investigations.
+- 🕵️ Exploring digital evidence, anti-forensics and threat intelligence.
+- 🤖 Experimenting with AI/ML, Deep Learning and Explainable AI.
+- 🧠 Interested in Federated Learning and intelligent threat detection.
+- ⚡ Building practical tools, prototypes and research-driven applications.
+- 🔧 Exploring Raspberry Pi, Arduino and embedded systems.
+- 🧪 Always curious about how things work under the hood.
 
 ---
 
-## 💜 My Tech Universe
+## ⚡ THE TECH STACK
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,bash,rust&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,bash,rust&theme=dark" />
 </p>
 
-### 🌐 Web Development & Frameworks
+### 🌐 Development & Frameworks
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,react,nodejs,vite&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,flask,fastapi,streamlit&theme=dark" />
 </p>
 
-### 🤖 AI / ML / Data Science
+### 🧠 AI / ML / Data Science
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-CBA6F7?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-F2C6D8?style=flat-square" />
-<img src="https://img.shields.io/badge/Federated%20Learning-C6E7D8?style=flat-square" />
-<img src="https://img.shields.io/badge/Explainable%20AI-B8DDEB?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Vision-FFF1C9?style=flat-square" />
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
 </p>
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-DB2777?style=flat-square)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-0891B2?style=flat-square)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-059669?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-CA8A04?style=flat-square)
 
 ### 🔐 Cybersecurity & Digital Forensics
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,kali,bash&theme=light" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Cyber%20Security-CBA6F7?style=flat-square" />
-<img src="https://img.shields.io/badge/Digital%20Forensics-F2C6D8?style=flat-square" />
-<img src="https://img.shields.io/badge/Threat%20Intelligence-C6E7D8?style=flat-square" />
-<img src="https://img.shields.io/badge/Incident%20Response-B8DDEB?style=flat-square" />
-<img src="https://img.shields.io/badge/Malware%20Analysis-FFF1C9?style=flat-square" />
-<img src="https://img.shields.io/badge/Network%20Security-EADCF8?style=flat-square" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,docker&theme=dark" />
 </p>
 
-### 🛠️ Tools & Platforms
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-7C3AED?style=flat-square)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-DB2777?style=flat-square)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0891B2?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-059669?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-DC2626?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Security-6D28D9?style=flat-square)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,sqlite,arduino,raspberrypi,windows,linux&theme=light" />
+### 🛠️ Tools & Hardware
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,sqlite,arduino,raspberrypi,windows,linux&theme=dark" />
 </p>
 
 ---
 
-## 🧁 My Skills & Interests
+## 🚀 THINGS I'M BUILDING
 
-<table>
-<tr>
-<td width="50%" valign="top">
+*Ideas, experiments and a little bit of engineering magic.*
 
-### 🔍 Digital Forensics
-
-- Digital Evidence Acquisition
-- Evidence Integrity & Hashing
-- Metadata Analysis
-- File System Forensics
-- Timeline Reconstruction
-- Forensic Automation
-- Chain of Custody
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Cybersecurity
-
-- Threat Detection & Analysis
-- Network Security
-- Security Monitoring
-- Incident Response
-- Vulnerability Assessment
-- Linux Security Tools
-- Security Research
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Federated Learning
-- Explainable AI (XAI)
-- Computer Vision
-- Model Evaluation
-- Intelligent Detection Systems
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Software Development
-
-- Python Development
-- REST API Development
-- Web Applications
-- Automation & Scripting
-- Docker & Containerization
-- Git & GitHub
-- Rapid Prototyping
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Things I'm Building & Exploring
-
-I believe the best way to learn technology is to build something with it!
-
-| Project / Area | What it's about |
-|---|---|
-| 🔬 **AD-TAPS** | Adaptive log detection, threat analysis, profiling and self-learning for cyber forensics |
-| 🕵️ **AFDF** | Anti-Forensic Detection Framework |
-| 🔎 **AICYFIS** | AI-powered cyber forensic investigation and intelligent analysis |
-| 🧠 **Federated Learning** | Privacy-preserving intelligent detection systems |
-| 🛡️ **Security Automation** | Python-based security and forensic utilities |
-| 🤖 **IoT & Embedded Systems** | Raspberry Pi, Arduino and hardware-based experiments |
-
-Explore my repositories for code, experiments, research implementations, and projects in progress.
+| Project | What it does |
+|:---|:---|
+| 🔬 **AD-TAPS** | Adaptive log detection, threat analysis, profiling and self-learning for cyber forensics. |
+| 🕵️ **AFDF** | Anti-Forensic Detection Framework for identifying anti-forensic activities. |
+| 🔎 **AICYFIS** | AI-powered cyber forensic investigation and intelligent analysis. |
+| 🧠 **Federated Learning** | Privacy-preserving intelligent detection systems. |
+| 🛡️ **Security Automation** | Python-based security tools, forensic utilities and automation. |
+| 🤖 **IoT & Embedded Systems** | Raspberry Pi, Arduino and hardware-based experiments. |
 
 <div align="center">
 
 <a href="https://github.com/code-with-nc?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-CBA6F7?style=for-the-badge&logo=github&logoColor=4C4260"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-E879F9?style=for-the-badge&logo=github&logoColor=18122B" />
 </a>
 
 </div>
 
 ---
 
-## 📚 Research Interests
+## 🔍 MY RESEARCH ZONE
 
-- 🔐 Cyber Forensics & Digital Evidence Intelligence
-- 🧠 Federated Learning for Privacy-Preserving Security
-- 🤖 Explainable AI for Threat Detection
-- 🔍 Anti-Forensics Detection
-- 🌐 IoT Security & Intrusion Detection Systems
-- 🛡️ Intelligent Incident Response & Security Automation
+Currently interested in exploring:
+
+| Domain | Research Interests |
+|:---|:---|
+| 🔐 Cyber Forensics | Digital Evidence Intelligence, Anti-Forensics Detection |
+| 🧠 Federated Learning | Privacy-Preserving Machine Learning |
+| 🤖 Explainable AI | Interpretable Threat Detection |
+| 🌐 IoT Security | Intelligent Intrusion Detection Systems |
+| 🛡️ Cybersecurity | Threat Intelligence & Incident Response |
+| 🔬 AI Research | Deep Learning & Intelligent Investigation |
 
 ---
 
-## 📊 My GitHub Corner
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-nc&show_icons=true&theme=catppuccin_latte&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-nc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=00E5C0&text_color=E2E8F0&rank_icon=github&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-nc&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-nc&theme=catppuccin-latte&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-nc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9&text_color=E2E8F0&langs_count=8" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-nc&theme=catppuccin&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-nc&bg_color=0D1117&color=E879F9&line=00E5C0&point=FF4D9D&area=true&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-with-nc&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Little Milestones
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-nc&theme=flat&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-## 🌷 Let's Connect!
-
-Always open to connecting with developers, researchers, cybersecurity enthusiasts, and people who love building interesting things.
-
-Let's exchange ideas, collaborate on projects, and create something impactful!
+## 🌐 FIND ME ON THE INTERNET
 
 <div align="center">
 
 <a href="https://github.com/code-with-nc">
-<img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&logo=github&logoColor=4C4260"/>
+<img src="https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=E879F9" />
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-B8DDEB?style=for-the-badge&logo=linkedin&logoColor=4C4260"/>
+<a href="https://www.linkedin.com/in/narayani-chaudhary/">
+<img src="https://img.shields.io/badge/LinkedIn-18122B?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
-<a href="mailto:narayani010mtit25@igdtuw.ac.in">
-<img src="https://img.shields.io/badge/Email-F2C6D8?style=for-the-badge&logo=gmail&logoColor=4C4260"/>
+<a href="mailto:its.nc2408@gmail.com">
+<img src="https://img.shields.io/badge/Email-18122B?style=for-the-badge&logo=gmail&logoColor=FF4D9D" />
+</a>
+
+<a href="https://scholar.google.com/citations?user=vGpG1MEAAAAJ">
+<img src="https://img.shields.io/badge/Google_Scholar-18122B?style=for-the-badge&logo=googlescholar&logoColor=00E5C0" />
+</a>
+<a href="https://narayanichaudhary.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-18122B?style=for-the-badge&logo=firefox&logoColor=E879F9" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=code-with-nc&label=Profile%20Visitors&color=CBA6F7&style=flat-square" />
+### ✦ CURRENTLY RUNNING ON ✦
 
-<br/><br/>
+`CURIOSITY.exe` • `COFFEE.dll` • `PYTHON.py` • `CREATIVITY.sys`
 
-### ✨ Keep Exploring. Keep Creating. Keep Coding. ✨
+<br/>
 
-*Made with curiosity, caffeine & a little bit of magic. ☕🌸*
+**BUILD BOLD. THINK DEEP. BREAK LIMITS.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8DDEB,35:D8F3E8,70:F7DCE7,100:EADCF8&height=130&section=footer" width="100%"/>
+*Made with code, curiosity & a little punk energy. 🖤*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C0,35:E11D74,70:6D28D9,100:120D24&height=130&section=footer" width="100%"/>
 
 </div>
